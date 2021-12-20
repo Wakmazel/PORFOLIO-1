@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="200" height="200" preserveAspectRatio="none" viewBox="0 0 200 200">
+    <g mask="url(&quot;#SvgjsMask3203&quot;)" fill="none">
+        <path d="M120.6 41.84L107.99 39.62 107.39 26.82 94.77 24.6 94.17 11.81 81.56 9.59 80.96-3.2M126.6 36.55L113.99 34.33 113.39 21.54 100.78 19.32 100.18 6.52 87.57 4.3 86.97-8.49" stroke="#e73635" stroke-width="2.63" stroke-dasharray="4, 4"></path>
+        <rect width="120" height="120" clip-path="url(&quot;#SvgjsClipPath3204&quot;)" x="-18.03" y="22.85" fill="url(#SvgjsPattern3205)" transform="rotate(83.88, 41.97, 82.85)"></rect>
+        <rect width="90.19999999999999" height="90.19999999999999" clip-path="url(&quot;#SvgjsClipPath3206&quot;)" x="-17.88" y="-12.07" fill="url(#SvgjsPattern3207)" transform="rotate(27.97, 27.22, 33.03)"></rect>
+        <rect width="60" height="60" clip-path="url(&quot;#SvgjsClipPath3208&quot;)" x="47.13" y="24.32" fill="url(#SvgjsPattern3209)" transform="rotate(282, 77.13, 54.32)"></rect>
+        <path d="M132.21 144.10999999999999 L183.24 207.76L210.52691935799527 123.13308064200477z" stroke="#037b0b" stroke-width="1.79" stroke-dasharray="4, 4"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask3203">
+            <rect width="200" height="200" fill="#ffffff"></rect>
+        </mask>
+        <pattern x="0" y="0" width="120" height="6" patternUnits="userSpaceOnUse" id="SvgjsPattern3205">
+            <rect width="120" height="3" x="0" y="0" fill="#d3b714"></rect>
+            <rect width="120" height="3" x="0" y="3" fill="rgba(0, 0, 0, 0)"></rect>
+        </pattern>
+        <clipPath id="SvgjsClipPath3204">
+            <circle r="30" cx="41.97" cy="82.85"></circle>
+        </clipPath>
+        <pattern x="0" y="0" width="9.02" height="9.02" patternUnits="userSpaceOnUse" id="SvgjsPattern3207">
+            <path d="M0 9.02L4.51 0L9.02 9.02" stroke="#d3b714" fill="none"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath3206">
+            <circle r="22.549999999999997" cx="27.22" cy="33.03"></circle>
+        </clipPath>
+        <pattern x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse" id="SvgjsPattern3209">
+            <path d="M0 6L3 0L6 6" stroke="#e73635" fill="none"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath3208">
+            <circle r="15" cx="77.13" cy="54.32"></circle>
+        </clipPath>
+    </defs>
+</svg>
