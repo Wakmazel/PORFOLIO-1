@@ -266,11 +266,12 @@ article p{
 }
 .apropos .time-line .time-bull{
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     border-radius: 50px;
-    top: -5px;
-    background: var(--principal);
+    top: -8px;
+    background: white;
+    border: solid 5px var(--principal);
 }
 .about-content-item .skill{
     display: grid;
